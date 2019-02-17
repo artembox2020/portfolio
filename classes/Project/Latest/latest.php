@@ -4,10 +4,10 @@
                         <div class="content">    
                                                
                             <div class="item featured text-center">
-                                <h3 class="title"><a href="https://devtool-recovery.com" target="_blank">Salvagedata Recovery</a></h3>
+                                <h3 class="title"><a href="https://salvagedata.com" target="_blank">Salvagedata Recovery</a></h3>
                                 <p class="summary">Service for salvaging and repairing media devices</p>
                                 <div class="featured-image">
-                                    <a href="https://devtool-recovery.com" target="_blank">
+                                    <a href="https://salvagedata.com" target="_blank">
                                     <img class="img-responsive project-image" src="<?= $rootUrl ?>/img/salvagedata.png" alt="project name" />
                                     </a>
                                     <div class="ribbon">
